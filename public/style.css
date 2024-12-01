@@ -1,0 +1,9 @@
+
+
+/* About css */
+
+    body{
+        background-image: url('img/2.png');
+        background-attachment: fixed;
+        background-size: cover;
+    }
